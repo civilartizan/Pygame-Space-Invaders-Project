@@ -19,7 +19,7 @@ To run this project, you need to have Python and Pygame installed on your system
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kullanici_adiniz/Pygame-Space-Invaders-Project.git
+    git clone https://github.com/civilartizan/Pygame-Space-Invaders-Project.git
     ```
 
 2. Navigate to the project directory:
